@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 import org.srs.models.Job;
 import org.srs.models.Person;
-
+//? super R, ? extends V
 public class FunctionSpplyExample01 {
 	
 	
